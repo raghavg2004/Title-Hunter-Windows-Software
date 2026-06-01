@@ -1,4 +1,7 @@
-# Title Hunter Windows Software
+<h1 style="display:flex; align-items:center; gap:12px;">
+	<img src="icon.png" alt="Title Hunter" style="height:1em; width:auto; display:inline-block;" />
+	<span>Title Hunter</span>
+</h1>
 
 Title Hunter is a Windows desktop application distributed through this repository as a ready-to-run installer.
 
